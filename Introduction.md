@@ -1,17 +1,2 @@
-Preparing for the Informatics Olympiad.
+[![Star History Chart](https://api.star-history.com/svg?repos=TangHanchen/home_page&type=date&legend=top-left)](https://www.star-history.com/#TangHanchen/home_page&type=date&legend=top-left)
 
-正在准备信息学奥林匹克竞赛。
-
-
-My QQ mailbox: 3499774081@qq.com.
-
-我的QQ邮箱：3499774081@qq.com。
-
-You can contact me!
-
-可以联系我哦！
-
-
-I am a primary school student who loves to reply to the news!
-
-本人是个爱回消息的小学生！
